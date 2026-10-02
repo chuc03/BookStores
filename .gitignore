@@ -1,0 +1,19 @@
+# Build output
+target/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs & temp
+*.log
+*.tmp
